@@ -54,7 +54,7 @@ http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="New Group",Nb Tv
 http://208.86.19.13:81/live/NYB/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="New Group",Meem TV
-http://str24.l9574.com/meemtv/index.m3u8
+http://208.86.19.13:81/502.stream/index.m3u8
 #EXTINF:0 tvg-id="BanglaTV.uk" group-title="New Group",Bangla Tv
 http://208.86.19.13:81/live/banglany2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="New Group",Us Bangla
@@ -140,11 +140,13 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:0 tvg-id="ext" group-title="New Group",Millennium-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="New Group",Deshe-Bideshe Tv
-https://db71.livebox.co.in/deshebideshehls/tv.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="New Group",Pan-Vision-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDIxIDg6NTY6MTUgQU0maGFzaF92YWx1ZT1lU0RKcC92NTVMTlk3RGJUQVViclVnPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-id="ext" group-title="New Group",Ab-Tv
 http://208.86.19.13:81/live/ABtv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New Group",AlBuy Tv
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alibuytv.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="New Group",Ion-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgOTo1NjowNyBBTSZoYXNoX3ZhbHVlPThoeldRRVZUMEw1cm41SXI3dTU3eHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:0 tvg-id="ext" group-title="New Group",Doyel-Tv
