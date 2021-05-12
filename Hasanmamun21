@@ -253,7 +253,7 @@ http://84.17.41.7:80/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-bFu3Qcuw04I/V1LablvHTJI/AAAAAAAAQrU/ZcUycyxMFN8OTglvEE1hG1edUvVHqO4WQCLcB/w1200-h630-p-k-no-nu/bflix_logo.png" group-title="HINDI MOVIE.",B flix
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:0 tvg-ilogo="https://www.pngkey.com/png/detail/357-3578619_sahara-one-sahara-one-channel-logo.png" group-title="HINDI MOVIE.",SAHARA ONE
+#EXTINF:0 tvg-ilogo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/20/IMG_6488%20%281%29.PNG?itok=SSF2cU4k" group-title="HINDI MOVIE.",SAHARA ONE
 http://rv.therevenge.co:80/307211716271/307211716271/83578
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsbNdEXhM92M0q_B5xCxyQ95cOYc0IcVHCtEaFwx7jq1bC8vUNcTfNOE3sTCX1oDDrpY&usqp=CAU" group-title="HINDI MOVIE.",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
@@ -429,9 +429,9 @@ https://gma2.blab.email/espn2.m3u8
 http://securepoint.io:83/live/promo/promo/355934.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
 http://221.120.204.4/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="SPORTS.",Star Sports S 1
+#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/4b546a74300aa8e3.jpg" group-title="SPORTS.",Star Sports S 1
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/chunklist_w1760519830.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="SPORTS.",Star Sports S 2
+#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3bee69421287eaa4.jpg" group-title="SPORTS.",Star Sports S 2
 http://221.120.204.4/STAR-SPORTS-SELECT-2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/VkTDTEo7WUw/maxresdefault.jpg" group-title="SPORTS.",Bt Sports 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -505,7 +505,7 @@ http://1.adrawayoun.xyz/live/117/index.m3u8
 http://1.adrawayoun.xyz/live/150/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/736x/2c/e6/05/2ce60557768dee87769c3b0c4e6b347f.jpg" group-title="SPORTS.",AD Sports 1
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_rg2dIUdzF-xQmAh9m1LJdCq4KpnLX7XOh5XH8rH0MQBIjzqfwRUt65OU4mENPMZGk6iJaGpHFJBEmQ2izoX9kyNuUQkmaInRPPzrO0zsA" group-title="SPORTS.",AD Sports 2
+#EXTINF:0 tvg-logo="https://nl7za.com/wp-content/uploads/2019/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-2-HD.jpg" group-title="SPORTS.",AD Sports 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 tvg-logo="https://discovery.sndimg.com/content/dam/images/discovery/editorial/branding/2019/2/1/Discovery-default-search-image-4x3.jpg.rend.hgtvcom.616.462.suffix/1561760738182.jpeg" group-title="DISCOVERY.",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
