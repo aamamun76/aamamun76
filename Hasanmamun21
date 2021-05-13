@@ -81,6 +81,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/600x315/32/90/54/32905493018d4c020cd3349ecc6251e5.jpg" group-title="BANGLA ENT.",Rang-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="ext" group-title="BANGLA ENT.",Euro Bangla
+https://enterasiaglobal-hls.telelivebd.com/enterasiaglobal/enterasiaglobal_manifest.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/royal_tv.png" group-title="BANGLA ENT.",Royal-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault_live.jpg" group-title="BANGLA MOVIE.",Movie-Bangla
