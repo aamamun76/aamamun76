@@ -43,7 +43,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-title="BANGLA ENT.",Desh-Tv
 http://103.205.133.21/hls/deshtv.m3u8
-#EXTINF:0 tvg-logo="https://images.app.goo.gl/R4uPuXn7qfgxoi4r5" group-title="BANGLA MOVIE.",Bongo Movie
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Mq2jeWV007t.png" group-title="BANGLA MOVIE.",Bongo Movie Tv
 https://live.bongobd.com/hls/k3J5I1slYS1RYMF-e1AQmA/1620933804/bongo_movies.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLA ENT.",G-Tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
@@ -81,7 +81,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/600x315/32/90/54/32905493018d4c020cd3349ecc6251e5.jpg" group-title="BANGLA ENT.",Rang-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="ext" group-title="BANGLA ENT.",Euro Bangla
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/qmg7lBRfQ2km7bGqu5yvgvLxMfwi-JINdDhFibHRTKF7moPzn0fhWqMVfQqzJNVM2_lp2_C_iJforMmbtEOvd31P1R1R30b6mj244_lII-Jd-aaCGGSmlNSEArovqQ" group-title="BANGLA ENT.",Euro Bangla Tv
 https://enterasiaglobal-hls.telelivebd.com/enterasiaglobal/enterasiaglobal_manifest.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/royal_tv.png" group-title="BANGLA ENT.",Royal-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/playlist.m3u8
@@ -185,7 +185,7 @@ https://aldawahtv.telelivebd.com/AldawahTV/AldawahTV_manifest.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjEgMTE6MjQ6MjkgQU0maGFzaF92YWx1ZT11blFtZU1rRWcrOEEvc1pWWlJ5SDlBPT0mdmFsaWRtaW51dGVzPTQw
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="ISLAMIC.",Peace-Tv Bangla
 http://103.205.133.21/hls/peacetv.m3u8
-#EXTINF:0 tvg-logo="https://images.app.goo.gl/eBsiLMgUPi6CJ5wv9" group-title="ISLAMIC.",Interasia Tv
+#EXTINF:0 tvg-logo="https://inter-asia.com.my/wp-content/uploads/2020/09/logo_interasia_vertical.png" group-title="ISLAMIC.",Interasia Tv
 https://interasia-hls.telelivebd.com/interasia/interasia_manifest.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/11/InShot_20201106_203908910-200x200.jpg" group-title="ISLAMIC.",I TV Usa
 https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
@@ -427,12 +427,12 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8 group-title="SPO
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/03/03/Untitled-2_0.jpg" group-title="SPORTS.",Sony ESPN HD
 https://gma2.blab.email/espnu.m3u8
+#EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN 2
+https://gma2.blab.email/espn2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3iRoHV3DEOvSRbD6igloFpNV1SDmt4-O6UqZRkiGodkrObgQtrYrVCU8baF7tG-FfwH0&usqp=CAU" group-title="SPORTS.",Sports Football
 http://securepoint.io:83/live/promo/promo/366920.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/S/SportsMax-logo-CE170AE84D-seeklogo.com.gif" group-title="SPORTS.",SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN 2
-https://gma2.blab.email/espn2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
 http://securepoint.io:83/live/promo/promo/355934.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
