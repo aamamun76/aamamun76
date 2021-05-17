@@ -81,7 +81,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/600x315/32/90/54/32905493018d4c020cd3349ecc6251e5.jpg" group-title="BANGLA ENT.",Rang-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rangiptv.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/qmg7lBRfQ2km7bGqu5yvgvLxMfwi-JINdDhFibHRTKF7moPzn0fhWqMVfQqzJNVM2_lp2_C_iJforMmbtEOvd31P1R1R30b6mj244_lII-Jd-aaCGGSmlNSEArovqQ" group-title="BANGLA ENT.",Euro Bangla Tv
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1347354578623156224/IgjUv7q0_400x400.jpg" group-title="BANGLA ENT.",Euro Bangla Tv
 https://enterasiaglobal-hls.telelivebd.com/enterasiaglobal/enterasiaglobal_manifest.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/zeroflixxyz/livetv/master/logo/wide/royal_tv.png" group-title="BANGLA ENT.",Royal-Tv
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/playlist.m3u8
@@ -355,9 +355,9 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:0 tvg-logo=" "group-titile="ENGLISH MOVIE.",OSN Movies
+#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",OSN Movies
 http://1.adrawayoun.xyz/live/044/index.m3u8?t=mlqrMVNzNAOeXZcHwCThEA&e=1620887607
-#EXTINF:0 tvg-logo=" "group-titile="ENGLISH MOVIE.",Bein Movies Action
+#EXTINF:0 tvg-logo="https://dorar.at/imup2/2020-07/58562.bein_movies_action_-2.png"group-titile="ENGLISH MOVIE.",Bein Movies Action
 http://1.adrawayoun.xyz/live/077/index.m3u8?t=sKiF-B3SCH0hO-K0ZGmEOQ&e=1620887665
 #EXTINF:0 tvg-logo="https://www.pngjoy.com/pngm/850/10033240_hbo-red-by-hbo-hd-png-download.png" group-title="ENGLISH MOVIE.",Amedia Hit HBO
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
