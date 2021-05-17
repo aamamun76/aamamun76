@@ -355,6 +355,10 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:0 tvg-logo=" "group-titile="ENGLISH MOVIE.",OSN Movies
+http://1.adrawayoun.xyz/live/044/index.m3u8?t=mlqrMVNzNAOeXZcHwCThEA&e=1620887607
+#EXTINF:0 tvg-logo=" "group-titile="ENGLISH MOVIE.",Bein Movies Action
+http://1.adrawayoun.xyz/live/077/index.m3u8?t=sKiF-B3SCH0hO-K0ZGmEOQ&e=1620887665
 #EXTINF:0 tvg-logo="https://www.pngjoy.com/pngm/850/10033240_hbo-red-by-hbo-hd-png-download.png" group-title="ENGLISH MOVIE.",Amedia Hit HBO
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="ENGLISH MOVIE.",HBO
@@ -519,6 +523,8 @@ http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery Hindi
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
+#EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery Bangla
+http://103.153.175.254:8080/hls/stream9.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png" group-title="DISCOVERY.",Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" group-title="COOKING.",TLC
@@ -547,6 +553,8 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="GEOGRAPHIC.",N G Channel
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="GEOGRAPHIC.",N G Channel Bangla
+http://103.153.175.254:8080/hls/stream13.m3u8?BDTV
 #EXTINF:0 tvg-logo="https://img.favpng.com/12/20/21/logo-nat-geo-wild-national-geographic-television-channel-png-favpng-X5cTr0eRJi2b96GK1s1x1nBAK.jpg" group-title="GEOGRAPHIC.",Natgeo Wild
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="GEOGRAPHIC.",Animal Planet
