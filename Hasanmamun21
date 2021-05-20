@@ -245,13 +245,13 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://dreamdth.com/wp-content/uploads/2020/07/Enterr10-Movies-1024x1024.jpg" group-title="HINDI MOVIE.",Enterr 10 Movies
 http://rv.therevenge.co:80/307211716271/307211716271/83664
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c733cc34917915.Y3JvcCwxMzE0LDEwMjgsMzAyLDI5.png" group-title="HINDI MOVIE.",B4U Movie Uk
+#EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/b4u-movies-large.png" group-title="HINDI MOVIE.",B4U Movie Uk
 http://103.205.133.19/hls/b4umovies.m3u8
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c733cc34917915.Y3JvcCwxMzE0LDEwMjgsMzAyLDI5.png" group-title="HINDI MOVIE.",B4U Movie Us
+#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/b4u-movies-logo-300x300.jpg" group-title="HINDI MOVIE.",B4U Movie Us
 http://1skytv.com:8080/k3NT70ga3f/FLyvJR2Cad/1306
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c733cc34917915.Y3JvcCwxMzE0LDEwMjgsMzAyLDI5.png" group-title="HINDI MOVIE.",B4U PLUS
+#EXTINF:0 tvg-logo="https://b4uplus.com/images/logo.png" group-title="HINDI MOVIE.",B4U PLUS
 http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/38172
-#EXTINF:0 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c733cc34917915.Y3JvcCwxMzE0LDEwMjgsMzAyLDI5.png" group-title="HINDI MOVIE.",B4U AFLAM
+#EXTINF:0 tvg-logo="http://english.b4uaflam.com/images/logo.png" group-title="HINDI MOVIE.",B4U AFLAM
 http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/38171
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest/scale-to-width-down/340?cb=20200320100818" group-title="HINDI MOVIE.",B4u Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -399,9 +399,9 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/1280px-Rakuten_TV_logo.svg.png" group-title="ENGLISH MOVIE.",Rakuten Movies 1
 https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/930367214049484801/_UbwXy25.jpg" group-title="ENGLISH MOVIE.",Rakuten Movies 2
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62hz9vzilxp6MjBqdjomEJpm60ts-Y5qIMIn9Zaf6bDhrGgwdRUhlXcdOZmwrRA87Gw&usqp=CAU" group-title="ENGLISH MOVIE.",Rakuten Movies 2
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/930367214049484801/_UbwXy25.jpg" group-title="ENGLISH MOVIE.",Rakuten Movies 3
+#EXTINF:0 tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="ENGLISH MOVIE.",Rakuten Movies 3
 https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ps-alfajer-tv-1195.jpg" group-title="ENGLISH MOVIE.",Al Faker Tv
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
@@ -449,7 +449,7 @@ https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1200px-Cinemax.svg.png" group-title="ENGLISH MOVIE.",Cinemax
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8?Live-TV%E2%84%A2
-#EXTINF:0 tvg-logo="https://i0.wp.com/st3.depositphotos.com/1186248/13596/i/1600/depositphotos_135964990-stock-photo-dove-brand-logo.jpg" group-title="ENGLISH MOVIE.",Rasi Hollywood
+#EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8wXzE1MzE1NDE5NTRfMDc4/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENGLISH MOVIE.",Rasi Hollywood
 http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="ENGLISH MOVIE.",My Cinema Europe
 http://210.210.155.35/session/bc0a1e22-773f-11eb-ab01-a3d7ba48b0db/uq2663/h/h18/02.m3u8
@@ -557,6 +557,8 @@ http://1.adrawayoun.xyz/live/150/index.m3u8
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 tvg-logo="https://nl7za.com/wp-content/uploads/2019/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-2-HD.jpg" group-title="SPORTS.",AD Sports 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:0 tvg-logo="https://discovery.sndimg.com/content/dam/images/discovery/editorial/branding/2019/2/1/Discovery-default-search-image-4x3.jpg.rend.hgtvcom.616.462.suffix/1561760738182.jpeg" group-title="DISCOVERY.",Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/detail/134-1341595_discovery-channel-transparent-discovery-channel-logo.png" group-title="DISCOVERY.",Discovery Hindi
@@ -587,6 +589,8 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?t
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/9b/4f/84/9b4f843fa6f7d9ab08b2fd9fe9f9457b.png" group-title="LIFESTYLE.",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032011/ls_logo_corel-converted.png?itok=n415tG42" group-title="LIFESTYLE.",Life Style
+https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="LIFESTYLE.",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="GEOGRAPHIC.",N G Channel
@@ -609,13 +613,10 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1143020755094929408/8b7P5hZ6_400x400.png" group-title="DOCUMENTARY.",Travel Xp Eng
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
-http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/759
 #EXTINF:0 tvg-logo="https://icon2.cleanpng.com/20180417/loe/kisspng-sony-yay-sony-pictures-networks-india-television-c-sony-5ad644fce01d59.956800371523991804918.jpg" group-title="CARTOON.",Sony YAY
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/png_logo_vector/varsity-tv-logo.png" group-title="WRESTING",RxH
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2268635250/oy50ez2an1i1okq773gm.jpeg" group-title="NE",Palestine Tv
-
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2268635250/oy50ez2an1i1okq773gm.jpeg" group-title="NEWS",Palestine Tv
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 
