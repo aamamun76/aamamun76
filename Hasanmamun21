@@ -215,7 +215,7 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://mbtvbd.com/wp-content/uploads/2021/02/Mb-tv-logo.png" group-title="BANGLA MOVIE.",Magic Bangla
 http://103.108.145.94:1935/magicbangla/myStream/chunklist_w47264854.m3u8
-#EXTINF:0 tvg-logo="etc" group-title="BANGLA MUSIC.",Bangla Talkies
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/21/ban.jpg?itok=MtWEB69u" group-title="BANGLA MUSIC.",Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/dHYucHJvYmFzaGliYW5nbGEuZGlnaXRhbGIubXlhcHBsaWNhdGlvbl9zY3JlZW5fMF9zcWlndW9tMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="BANGLA MOVIE.",Probasi Bangla
 http://master.beeiptv.com:8081/probashi/probashi_bangla/chunks.m3u8
@@ -233,7 +233,7 @@ https://itvorigin.multitvsolution.com:443/idvo/khushboo_540p/index.m3u8
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
 https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
-#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/3548638c9e35adea.jpg" group-title="HINDI MOVIE.",Abzy Dhakad
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-P9V5thAdT9Y/YGVnMTu1g-I/AAAAAAAAyI4/q0kkD0M3oB47nJ2xHOV4z2r4FmBuhqLRQCLcBGAsYHQ/s340/Abzy_Dhakad-min.jpg" group-title="HINDI MOVIE.",Abzy Dhakad
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/340?cb=20191222183157" group-title="HINDI MOVIE.",Sony Max HD
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
@@ -465,8 +465,6 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3iRoHV3DEOvSRbD6igloFpNV1SDmt4-O6UqZRkiGodkrObgQtrYrVCU8baF7tG-FfwH0&usqp=CAU" group-title="SPORTS.",Sports Football
-http://securepoint.io:83/live/promo/promo/366920.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/S/SportsMax-logo-CE170AE84D-seeklogo.com.gif" group-title="SPORTS.",SPORTS MAX
 https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
@@ -557,11 +555,11 @@ http://1.adrawayoun.xyz/live/150/index.m3u8
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
 #EXTINF:0 tvg-logo="https://nl7za.com/wp-content/uploads/2019/10/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-2-HD.jpg" group-title="SPORTS.",AD Sports 2
 http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/2c/e6/05/2ce60557768dee87769c3b0c4e6b347f.jpg" group-title="SPORTS.",La Liga
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png" group-title="SPORTS.",La Liga Tv
 http://ztvuk.com:8080/mohsin/mohsin123/41179
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="SPORTS.",Sky Sports
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nTr8fTsmX65OCBQzXACqQXMZuJ4y-AA98hJrKs9wyctpYZBD0IWrbiaCrAYheHSjcBw&usqp=CAU" group-title="SPORTS.",Sky Sports
 http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/2c/e6/05/2ce60557768dee87769c3b0c4e6b347f.jpg" group-title="SPORTS.",T Sports
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVm_k1dQ4tSVdl8DKOVfh5RX347DQ66f0NPWesKPxFNKB-VyHNebfdg5-a341amL6gDrw&usqp=CAU" group-title="SPORTS.",T Sports
 http://103.205.133.19/hls/tsports.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/793/877/png-clipart-red-bull-gmbh-logo-energy-drink-brand-red-bull-company-text.png" group-title="DOCUMENTARY.",Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
