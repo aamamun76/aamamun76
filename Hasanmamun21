@@ -227,6 +227,8 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:0 tvg-logo="http://mbtvbd.com/wp-content/uploads/2021/02/Mb-tv-logo.png" group-title="BANGLA MOVIE.",Magic Bangla
 http://103.108.145.94:1935/magicbangla/myStream/chunklist_w47264854.m3u8
+#EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/onuvhuti-TV.png" group-title="BANGLA ENT.",Onuvhuti-TV
+http://103.56.7.130:1935/live/onuvhutitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/11/21/ban.jpg?itok=MtWEB69u" group-title="BANGLA MUSIC.",Bangla Talkies
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:0 tvg-logo="https://image.winudf.com/v2/image/dHYucHJvYmFzaGliYW5nbGEuZGlnaXRhbGIubXlhcHBsaWNhdGlvbl9zY3JlZW5fMF9zcWlndW9tMQ/screen-0.jpg?fakeurl=1&type=.jpg" group-title="BANGLA MOVIE.",Probasi Bangla
@@ -643,6 +645,5 @@ https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-title="BANGLA ENT.",B-Tv
 https://qtvbangla-hls.telelivebd.com/QTV/qtv_manifest.m3u8
-#EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/onuvhuti-TV.png" group-title="BANGLA ENT.",B-Tv
-http://103.56.7.130:1935/live/onuvhutitv/playlist.m3u8
+
 
