@@ -55,6 +55,8 @@ http://103.205.133.19/hls/nagorik.m3u8
 http://master.beeiptv.com:8081/master/colorsbdtv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://bdiptv.stream/uploads/tv_image/progoti-tv.jpg" group-title="BANGLA MOVIE.",Progoti Tv
 http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
+EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/onuvhuti-TV.png" group-title="BANGLA ENT.",Onuvhuti-TV
+http://103.56.7.130:1935/live/onuvhutitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/11/NB-tv.jpg" group-title="BANGLA ENT.",Nb Tv
 http://208.86.19.13:81/live/NYB/index.m3u8
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/PNG-200x200.png" group-title="BANGLA ENT.",Meem TV
@@ -641,6 +643,6 @@ https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-title="BANGLA ENT.",B-Tv
 https://qtvbangla-hls.telelivebd.com/QTV/qtv_manifest.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-title="BANGLA ENT.",B-Tv
-https://torongotv-hls.telelivebd.com/torongotv/torongotv_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://abohomanbangla.com/Bangladesh_web_directory/tv_image/onuvhuti-TV.png" group-title="BANGLA ENT.",B-Tv
+http://103.56.7.130:1935/live/onuvhutitv/playlist.m3u8
 
