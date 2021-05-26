@@ -639,4 +639,6 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2268635250/oy50ez2an1i1okq773gm.jpeg" group-title="NEWS",Palestine Tv
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+https://qtvbangla-hls.telelivebd.com/QTV/qtv_manifest.m3u8
+https://torongotv-hls.telelivebd.com/torongotv/torongotv_manifest.m3u8
 
