@@ -394,7 +394,7 @@ https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072011/logo__slogan.ai_.png?itok=8W0eAesx"group-titile="ENGLISH MOVIE.",CCM CLASSIC
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",OSN Movies
 http://1.adrawayoun.xyz/live/044/index.m3u8?t=mlqrMVNzNAOeXZcHwCThEA&e=1620887607
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",OSN Enigma
