@@ -333,6 +333,12 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
 #EXTINF:0 tvg-logo="https://www.utv.lk/wp-content/uploads/2018/05/utv_logo.png" group-title="TAMIL MOVIE.",Tamil U Tv
 http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="HINDI MOVIE.",Raavi Film
+http://iptvtree.net:8080/geniptv/4faed690fd/196563
+#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="HINDI MOVIE.",Film World
+http://iptvtree.net:8080/geniptv/4faed690fd/82238
+#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="HINDI MOVIE.",Cinema Pro
+http://iptvtree.net:8080/geniptv/4faed690fd/85161
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE CLASSIC
 http://rv.therevenge.co:80/307211716271/307211716271/83611
 #EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="HINDI MOVIE.",MOVIES ACTIVE
@@ -369,7 +375,7 @@ http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
 http://bazarhd.online:80/307210144741/307210144741/83649
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
 http://iptvtree.net:8080/geniptv/4faed690fd/192069
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",E24
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzJikUonThbPbekoUaU4XHLnI5HDwTiWw9Lw&usqp=CAU" group-title="HINDI MUSIC.",E24
 http://iptvtree.net:8080/geniptv/4faed690fd/193086
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg" group-title="ENGLISH MUSIC.",Colosal Tv
 https://www.webtvbd.com/download/bdix/colosal_tv.m3u8
@@ -399,18 +405,12 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://1.adrawayoun.xyz/live/044/index.m3u8?t=mlqrMVNzNAOeXZcHwCThEA&e=1620887607
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",OSN Enigma
 http://1.adrawayoun.xyz/live/037/index.m3u8?t=NF_mEt9s2jvsOYL2A7LbXA&e=1620889839
-#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",Sony Action
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC20pS19ngz1tVDqTJcRei2hCuK5yr-aHcNA&usqp=CAU"group-titile="ENGLISH MOVIE.",Sony Action
 http://iptvtree.net:8080/geniptv/4faed690fd/48706
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",M Action
 http://iptvtree.net:8080/geniptv/4faed690fd/171844
-#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",Raavi Film
-http://iptvtree.net:8080/geniptv/4faed690fd/196563
-#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",Film World
-http://iptvtree.net:8080/geniptv/4faed690fd/82238
 #EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",Rai Premium
 http://iptvtree.net:8080/geniptv/4faed690fd/906
-#EXTINF:0 tvg-logo="https://media.elcinema.com/tvguide/1209_1.png"group-titile="ENGLISH MOVIE.",Cinema Pro
-http://iptvtree.net:8080/geniptv/4faed690fd/85161
 #EXTINF:0 tvg-logo="https://dorar.at/imup2/2020-07/58562.bein_movies_action_-2.png"group-titile="ENGLISH MOVIE.",Bein Movies Action
 http://1.adrawayoun.xyz/live/077/index.m3u8?t=sKiF-B3SCH0hO-K0ZGmEOQ&e=1620887665
 #EXTINF:0 tvg-logo="https://www.pngjoy.com/pngm/850/10033240_hbo-red-by-hbo-hd-png-download.png" group-title="ENGLISH MOVIE.",Amedia Hit HBO
