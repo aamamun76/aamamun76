@@ -555,6 +555,8 @@ http://1.alhawalouh.xyz/live/9787488847/index.m3u8
 http://1.alhawalouh.xyz/live/9962564400/index.m3u8
 #EXTINF:0 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="beIN SPORTS.",beIN Sports Xtra 2
 http://1.alhawalouh.xyz/live/880025552/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVi6K9U2meyfnChtdXdXc_BD8NxgEVMSvcg&usqp=CAU" group-title="SPORTS.", SPORTS 1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://www.101ways.com/wp-content/uploads/2018/11/DAZN.png" group-title="SPORTS.",Dazn 1 
 http://1.adrawayoun.xyz/live/146/index.m3u8
 #EXTINF:0 tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo-2.png" group-title="SPORTS.",TNT Sports 2
