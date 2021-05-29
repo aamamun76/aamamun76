@@ -463,6 +463,8 @@ http://103.153.175.254:8080/hls/stream3.m3u8
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-logo="http://live-tv-channels.org/pt-data/uploads/logo/mo-macau-lotus-tv-3757.jpg" group-title="ENGLISH MOVIE.",Lotus Maccau
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKztKJYlM5IAUGsV6LVE6NeETrYPzgTXrhCw&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:0 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="ENGLISH MOVIE.",And Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:0 tvg-logo="https://img.favpng.com/19/24/10/paramount-pictures-hollywood-paramount-television-image-logo-png-favpng-YnhkaJrx1FJi7QzaEQ39xHVak.jpg" group-title="ENGLISH MOVIE.",PARAMOUNT TV
@@ -490,7 +492,7 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-1Jt52zWbsd0/UGS85sZTF4I/AAAAAAAAb94/qTPsn5q-4sc/s1600/Top+SuperSport+English+Premier+League+extends+contract+EPL+new+contract.jpg" group-title="SPORTS.",Super Sport Premier League
 http://ztvuk.com:8080/mohsin/mohsin123/17188
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfsFCVHffnNjsqYtyMP10_e2i_hKikQ2JYswj51osv9kICEWd960REDHImHrcZD1l69g&usqp=CAU" group-title="SPORTS.",Star Sports 1
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30630
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3630
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKhFs8MtJGYhwS_XOw3XF7Qr0pe5d6pokg3FVddGrh6Uu5Cu87O1tUFNezlJ_zWh_Ir8&usqp=CAU" group-title="SPORTS.",Star Sports S 1
