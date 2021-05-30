@@ -368,7 +368,7 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8?Live-TV
 #EXTINF:0 tvg-logo="https://celebritiesmanagement.com/wp-content/uploads/2016/12/Music-India.jpg" group-title="HINDI MUSIC.",Music Ind
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="HINDI MUSIC.",B4U Music
-http://iptvtree.net:8080/geniptv/4faed690fd/274726
+http://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-A0CbD9MpMTM/TvtYm58az8I/AAAAAAAABEo/2uY9abUjrW4/s1600/PTC+chak+de.jpg" group-title="HINDI MUSIC.",Ptc Chakde
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv+
