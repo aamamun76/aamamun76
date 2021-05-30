@@ -500,9 +500,9 @@ https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723490
 #EXTINF:0 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/kisspng-star-sports-star-india-television-channel-sony-ten-sportstv-5b1ed6839505d4.2492886615287476516104.jpg" group-title="SPORTS.",Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGKhFs8MtJGYhwS_XOw3XF7Qr0pe5d6pokg3FVddGrh6Uu5Cu87O1tUFNezlJ_zWh_Ir8&usqp=CAU" group-title="SPORTS.",Star Sports S 1
-https://m3u-editor.com/serve/33daccc0-c052-11eb-9571-d3fc1df89d62/305723492
+http://103.153.175.254:8080/hls/stream12.m3u8
 #EXTINF:0 tvg-logo="https://www.smartads.in/resources/assets/uploads/product_group/Television/Star-Sports-select-2.jpg" group-title="SPORTS.",Star Sports S 2
-https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463084
+http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/VkTDTEo7WUw/maxresdefault.jpg" group-title="SPORTS.",Bt Sports 1
 http://ztvuk.com:8080/mohsin/mohsin123/12149
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/r2jCLg98auM/maxresdefault.jpg" group-title="SPORTS.",Bt Sports 2
