@@ -467,6 +467,8 @@ https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKztKJYlM5IAUGsV6LVE6NeETrYPzgTXrhCw&usqp=CAU" group-title="ENGLISH MOVIE.",Cinema Tv
 https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtoFWNRYbufSqfsMbSJy36J6gR9e6s19e7A&usqp=CAU" group-title="ENGLISH MOVIE.",Nova Cinema
+http://iptvtree.net:8080/geniptv/4faed690fd/163793
 #EXTINF:0 tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="ENGLISH MOVIE.",And Prive
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:0 tvg-logo="https://img.favpng.com/19/24/10/paramount-pictures-hollywood-paramount-television-image-logo-png-favpng-YnhkaJrx1FJi7QzaEQ39xHVak.jpg" group-title="ENGLISH MOVIE.",PARAMOUNT TV
@@ -647,7 +649,7 @@ https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/png_logo_vector/varsity-tv-logo.png" group-title="WRESTING",RxH
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="WRESTING",WWE
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmJqlhiL8xIFfpw1tXWZ4wakSTzZxvMIUPg&usqp=CAU" group-title="WRESTING",WWE
 
 http://iptvtree.net:8080/geniptv/4faed690fd/225332
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2268635250/oy50ez2an1i1okq773gm.jpeg" group-title="NEWS",Palestine Tv
