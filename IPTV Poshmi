@@ -259,7 +259,9 @@ http://208.115.215.42:80/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 http://rv.therevenge.co:80/307211716271/307211716271/83664
 #EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/b4u-movies-large.png" group-title="HINDI MOVIE.",B4U Movie Uk
 https://m3u-editor.com/serve/a55ec780-c11d-11eb-942f-2db4c3758c76/306269243
-#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/b4u-movies-logo-300x300.jpg" group-title="HINDI MOVIE.",B4U Movie Us
+#EXTINF:0 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/b4u-movies-large.png" group-title="HINDI MOVIE.",B4U Movie Us
+http://hdhd.tk:80/angela123/angela123/19994
+#EXTINF:0 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/b4u-movies-logo-300x300.jpg" group-title="HINDI MOVIE.",B4U Movie 
 http://iptvtree.net:8080/geniptv/4faed690fd/1369
 #EXTINF:0 tvg-logo="https://b4uplus.com/images/logo.png" group-title="HINDI MOVIE.",B4U PLUS
 http://xtra.xcs521.cz:8080/00:1A:79:17:04:07/ziajdjjfdifjd64646/38172
@@ -315,8 +317,8 @@ https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-176
 #EXTINF:0 tvg-logo="http://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE.",Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:0 tvg-logo="https://www.nettv.com.ng/wp-content/uploads/2021/01/ZEE_SMILE_Live_TV.jpg" group-title="HINDI MOVIE.",Zee Smile
-http://cv.khushitv.xyz/channels.php?c=smileusa&e=.m3u8
+#EXTINF:0 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="HINDI MOVIE.",BBO Movie
+http://hdhd.tk:80/angela123/angela123/19993
 #EXTINF:0 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e1/7b/3e/e17b3e5a-d16d-ac7c-6bf2-cc7cf0d2daed/App_Icon_-_Small-marketing.lsr/1280x768bb.png" group-title="LIFESTYLE.",BOLLYWOOD PREMIER
 https://m3u-editor.com/serve/6e4967e0-baf7-11eb-8809-71e6bdb5707d/299463018
 #EXTINF:0 tvg-logo="https://img.freepik.com/free-vector/realistic-bollywood-cinema-sign-illustration_23-2148470397.jpg?size=338&ext=jpg" group-title="HINDI MOVIE.",Bollywood Classic
@@ -373,6 +375,8 @@ http://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
 https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv+
 http://84.17.41.7:80/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1115500483961950208/q3Wlk_Pt_400x400.png" group-title="HINDI MUSIC.",M Tv Ind
+http://hdhd.tk:80/angela123/angela123/7195
 #EXTINF:0 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnj0CeO2Dsi0GQc0Ej_acUTZuYWnn_BTP7baT7wIaA=s900-c-k-c0x00ffffff-no-rj" group-title="HINDI MUSIC.",M Tv Beats
 http://bazarhd.online:80/307210144741/307210144741/83649
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Zoom_Logo.png" group-title="HINDI MUSIC.",ZOOM TV HD
@@ -435,6 +439,12 @@ https://rakuten-comedymovies-3-de.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://image.similarpng.com/thumbnail/2020/06/Logo-rakuten-tv-transparent-PNG.png" group-title="ENGLISH MOVIE.",Rakuten Movies 3
 https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTMEOGSKv_djO4jjA8JCqWdLLV-NI94p4HQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fox Star
+http://hdhd.tk:80/angela123/angela123/19926
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnTMEOGSKv_djO4jjA8JCqWdLLV-NI94p4HQ&usqp=CAU" group-title="ENGLISH MOVIE.",Fox Star 2
+http://hdhd.tk:80/angela123/angela123/19928
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Action_max_logo.png" group-title="ENGLISH MOVIE.", Action Max
+http://hdhd.tk:80/angela123/angela123/339
 #EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ps-alfajer-tv-1195.jpg" group-title="ENGLISH MOVIE.",Al Faker Tv
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:0 tvg-logo="https://thumbnail.imgbin.com/22/13/24/imgbin-logo-sony-six-television-channel-sony-ten-sony-entertainment-television-kri8it-defining-digital-Acybc4HApnRxU3ck2ifyc7cAz_t.jpg" group-title="ENGLISH MOVIE.",Sony Pix
@@ -489,6 +499,10 @@ http://iptvtree.net:8080/geniptv/4faed690fd/67031
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.jetski-worldcup.com/images/download.png" group-title="SPORTS.",Edge Spoets
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-tsn3-190.png" group-title="SPORTS.",Tsn Sports 3
+http://hdhd.tk:80/angela123/angela123/18710
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAo4qiRHdz6BKWQcuO0zBDQyIYaXt8F9KcA&usqp=CAU" group-title="SPORTS.",Elven Sports
+http://hdhd.tk:80/angela123/angela123/33
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/logo/RMC_Sport_1.png" group-title="SPORTS.",RMC Sport 1
 http://1.adrawayoun.xyz/live/137000/index.m3u8?t=V8H4dpFfx6Lawsa-VQynmg&e=1620888313
 #EXTINF:0 tvg-logo="https://stonybrookathletics.com/images/2021/3/16/017f41a2_ef4f_39d3_9f45_f680b88cd23b.png" group-title="SPORTS.",ESPN 2
@@ -605,6 +619,8 @@ http://rv.therevenge.co:80/307211716271/307211716271/83559
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="COOKING.",Afn Tv
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0 tvg-logo="https://tvepg.eu/img/united_kingdom/logo/hum_masala.png" group-title="COOKING.",Hum Masala
+https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/01/zee_0.jpg?itok=M-DRq2zl
 #EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2020/10/01/zee_0.jpg?itok=M-DRq2zl" group-title="COOKING.",Zee Zest
 https://y5w8j4a9.ssl.hwcdn.net/zzesthd/tracks-v3a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJmla13u2wq4B0AEnS-AqGm5vU1oE5Omen2X-yAiw2iO_zWfCoQ_oO-e8yUR2kBxbjI8&usqp=CAU" group-title="COOKING.",Food NetWork
@@ -650,8 +666,9 @@ https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:0 tvg-logo="https://iconape.com/wp-content/png_logo_vector/varsity-tv-logo.png" group-title="WRESTING",RxH
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmJqlhiL8xIFfpw1tXWZ4wakSTzZxvMIUPg&usqp=CAU" group-title="WRESTING",WWE
-
 http://iptvtree.net:8080/geniptv/4faed690fd/225332
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmJqlhiL8xIFfpw1tXWZ4wakSTzZxvMIUPg&usqp=CAU" group-title="WRESTING",WWE 2
+http://hdhd.tk:80/angela123/angela123/9
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/2268635250/oy50ez2an1i1okq773gm.jpeg" group-title="NEWS",Palestine Tv
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://livemovieweb.com/wp-content/uploads/2020/10/logo.png" group-title="Movie",Live Movie
