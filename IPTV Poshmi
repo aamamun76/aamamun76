@@ -105,8 +105,10 @@ https://www.webtvbd.com/download/bdix/cumilla_24.m3u8
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHsbllMCZ4q6NbP4RkfsQfdygW-Qt-Mj1txQ&usqp=CAU" group-title="BANGLA MOVIE.",Gbangla Tv
 https://iptv10.raytahost.com/desh/gbangla/index.m3u8
-#EXTINF:0 tvg-logo="https://inter-asia.com.my/wp-content/uploads/2020/09/logo_interasia_vertical.png" group-title="ISLAMIC.",Interasia Tv
+#EXTINF:0 tvg-logo="https://inter-asia.com.my/wp-content/uploads/2020/09/logo_interasia_vertical.png" group-title="BANGLA ENT.",Interasia Tv
 https://interasia-hls.telelivebd.com/interasia/interasia_manifest.m3u8
+#EXTINF:0 tvg-logo="https://yestvbd.tv/wp-content/uploads/2021/04/logo.png" group-title="BANGLA ENT.",Yes Tv
+https://yestv-hls.telelivebd.com/yestv/yestv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://pcdn1.jagobd.com/images/xs-wty7bg1621611447724.jpg" group-title="BANGLA ENT.",Ck 24-Tv
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmkagoj24.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/942458481017208832/CA5uGF46.jpg" group-title="BANGLA MOVIE.",Sristy-Tv
@@ -237,8 +239,6 @@ https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/khushboo_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUIgT2OkSToCVLYDXaKxGs7Q5NQjadRkSZA&usqp=CAU" group-title="BANGLA MOVIE.",Amar Cinema
 https://m3u-editor.com/serve/a55ec780-c11d-11eb-942f-2db4c3758c76/306269224
-#EXTINF:0 tvg-logo="https://yestvbd.tv/wp-content/uploads/2021/04/logo.png" group-title="HINDI MOVIE.",Yes Tv
-https://yestv-hls.telelivebd.com/yestv/yestv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce48ead0e21236eb457/1565808611716/569ccce48ead0e21236eb457.jpg" group-title="HINDI MOVIE.",WOW CINEMA
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
