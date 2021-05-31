@@ -43,8 +43,6 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tv.bdtype.com/uploads/tv_image/desh-tv.png" group-title="BANGLA ENT.",Desh-Tv
 http://103.205.133.21/hls/deshtv.m3u8
-#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Mq2jeWV007t.png" group-title="BANGLA MOVIE.",Bongo Movie Tv
-https://live.bongobd.com/hls/k3J5I1slYS1RYMF-e1AQmA/1620933804/bongo_movies.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BANGLA ENT.",G-Tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="BANGLA ENT.",Asian-Tv
@@ -133,8 +131,6 @@ https://iptv9.raytahost.com/live/shwapno/index.m3u8
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channelsbd.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://likeetv.com/uploads/tv_image/ruposhi-bangla-tv-2ut53ekt8b9t.jpg" group-title="BANGLA MOVIE.",Ruposhi Bangla Tv
 https://5fe9adb07250c.streamlock.net/demo/rup/manifest_w1128088793.mpd
-#EXTINF:0 tvg-logo="https://yestvbd.tv/wp-content/uploads/2021/04/logo.png" group-title="BANGLA MOVIE.",Yes Tv
-https://yestv-hls.telelivebd.com/yestv/yestv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/rGSlPtKbkld0vqihdEUUtmfR_LDwEymmCNwicqgByPAYaanwbMVO0N-UyuQ94zTB8e-Z" group-title="BANGLA MOVIE.",Channel 23
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?Live-TV™
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Citytv_old_logo.svg/1200px-Citytv_old_logo.svg.png" group-title="BANGLA ENT.",City-Tv
@@ -241,6 +237,8 @@ https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/khushboo_540p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvUIgT2OkSToCVLYDXaKxGs7Q5NQjadRkSZA&usqp=CAU" group-title="BANGLA MOVIE.",Amar Cinema
 https://m3u-editor.com/serve/a55ec780-c11d-11eb-942f-2db4c3758c76/306269224
+#EXTINF:0 tvg-logo="https://yestvbd.tv/wp-content/uploads/2021/04/logo.png" group-title="HINDI MOVIE.",Yes Tv
+https://yestv-hls.telelivebd.com/yestv/yestv_manifest.m3u8
 #EXTINF:0 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/569ccce48ead0e21236eb457/1565808611716/569ccce48ead0e21236eb457.jpg" group-title="HINDI MOVIE.",WOW CINEMA
 http://103.205.133.19/hls/wowcinema.m3u8
 #EXTINF:0 tvg-logo="https://hotshotprime.com/upload/source/38da866a0646683c.jpg" group-title="HINDI MOVIE.",Abzy Movies
